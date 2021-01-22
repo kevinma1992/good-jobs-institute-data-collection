@@ -1,0 +1,741 @@
+store_name,dimension_name,score
+Acme Markets,CEO Rating,52
+Acme Markets,Compensation,57
+Acme Markets,Diversity,
+Acme Markets,eNPS,-26
+Acme Markets,Environment,74
+Acme Markets,Executive Team,55
+Acme Markets,Gender,
+Acme Markets,Happiness,58
+Acme Markets,Leadership,52
+Acme Markets,Manager,57
+Acme Markets,Meetings,62
+Acme Markets,Office Culture,
+Acme Markets,Outlook,56
+Acme Markets,Overall,61
+Acme Markets,Perks And Benefits,69
+Acme Markets,Professional Development,
+Acme Markets,Retention,60
+Acme Markets,Team,68
+Acme Markets,Work Culture,63
+Albertsons Companies,CEO Rating,65
+Albertsons Companies,Compensation,64
+Albertsons Companies,Diversity,64
+Albertsons Companies,eNPS,-7
+Albertsons Companies,Environment,72
+Albertsons Companies,Executive Team,63
+Albertsons Companies,Gender,68
+Albertsons Companies,Happiness,66
+Albertsons Companies,Leadership,64
+Albertsons Companies,Manager,66
+Albertsons Companies,Meetings,52
+Albertsons Companies,Office Culture,57
+Albertsons Companies,Outlook,65
+Albertsons Companies,Overall,66
+Albertsons Companies,Perks And Benefits,69
+Albertsons Companies,Professional Development,54
+Albertsons Companies,Retention,66
+Albertsons Companies,Team,71
+Albertsons Companies,Work Culture,68
+ALDI USA,CEO Rating,71
+ALDI USA,Compensation,75
+ALDI USA,Diversity,65
+ALDI USA,eNPS,6
+ALDI USA,Environment,78
+ALDI USA,Executive Team,69
+ALDI USA,Gender,73
+ALDI USA,Happiness,77
+ALDI USA,Leadership,72
+ALDI USA,Manager,75
+ALDI USA,Meetings,65
+ALDI USA,Office Culture,62
+ALDI USA,Outlook,74
+ALDI USA,Overall,73
+ALDI USA,Perks And Benefits,76
+ALDI USA,Professional Development,59
+ALDI USA,Retention,70
+ALDI USA,Team,69
+ALDI USA,Work Culture,72
+Costco,CEO Rating,89
+Costco,Compensation,94
+Costco,Diversity,85
+Costco,eNPS,68
+Costco,Environment,82
+Costco,Executive Team,83
+Costco,Gender,86
+Costco,Happiness,92
+Costco,Leadership,82
+Costco,Manager,77
+Costco,Meetings,78
+Costco,Office Culture,65
+Costco,Outlook,88
+Costco,Overall,84
+Costco,Perks And Benefits,95
+Costco,Professional Development,59
+Costco,Retention,84
+Costco,Team,84
+Costco,Work Culture,84
+Food 4 Less,CEO Rating,55
+Food 4 Less,Compensation,55
+Food 4 Less,Diversity,56
+Food 4 Less,eNPS,-45
+Food 4 Less,Environment,67
+Food 4 Less,Executive Team,60
+Food 4 Less,Gender,68
+Food 4 Less,Happiness,54
+Food 4 Less,Leadership,62
+Food 4 Less,Manager,63
+Food 4 Less,Meetings,55
+Food 4 Less,Office Culture,63
+Food 4 Less,Outlook,56
+Food 4 Less,Overall,61
+Food 4 Less,Perks And Benefits,59
+Food 4 Less,Professional Development,71
+Food 4 Less,Retention,59
+Food 4 Less,Team,64
+Food 4 Less,Work Culture,60
+Food lion,CEO Rating,64
+Food lion,Compensation,47
+Food lion,Diversity,68
+Food lion,eNPS,-17
+Food lion,Environment,70
+Food lion,Executive Team,59
+Food lion,Gender,61
+Food lion,Happiness,53
+Food lion,Leadership,56
+Food lion,Manager,55
+Food lion,Meetings,48
+Food lion,Office Culture,49
+Food lion,Outlook,65
+Food lion,Overall,60
+Food lion,Perks And Benefits,45
+Food lion,Professional Development,48
+Food lion,Retention,61
+Food lion,Team,66
+Food lion,Work Culture,66
+Fred Meyer,CEO Rating,63
+Fred Meyer,Compensation,61
+Fred Meyer,Diversity,67
+Fred Meyer,eNPS,-4
+Fred Meyer,Environment,73
+Fred Meyer,Executive Team,61
+Fred Meyer,Gender,66
+Fred Meyer,Happiness,64
+Fred Meyer,Leadership,61
+Fred Meyer,Manager,63
+Fred Meyer,Meetings,56
+Fred Meyer,Office Culture,62
+Fred Meyer,Outlook,69
+Fred Meyer,Overall,67
+Fred Meyer,Perks And Benefits,66
+Fred Meyer,Professional Development,60
+Fred Meyer,Retention,68
+Fred Meyer,Team,73
+Fred Meyer,Work Culture,69
+Giant Eagle,CEO Rating,56
+Giant Eagle,Compensation,56
+Giant Eagle,Diversity,52
+Giant Eagle,eNPS,-29
+Giant Eagle,Environment,68
+Giant Eagle,Executive Team,60
+Giant Eagle,Gender,62
+Giant Eagle,Happiness,58
+Giant Eagle,Leadership,57
+Giant Eagle,Manager,59
+Giant Eagle,Meetings,51
+Giant Eagle,Office Culture,41
+Giant Eagle,Outlook,60
+Giant Eagle,Overall,60
+Giant Eagle,Perks And Benefits,61
+Giant Eagle,Professional Development,42
+Giant Eagle,Retention,57
+Giant Eagle,Team,66
+Giant Eagle,Work Culture,65
+Giant Food,CEO Rating,57
+Giant Food,Compensation,44
+Giant Food,Diversity,57
+Giant Food,eNPS,-62
+Giant Food,Environment,74
+Giant Food,Executive Team,55
+Giant Food,Gender,56
+Giant Food,Happiness,49
+Giant Food,Leadership,56
+Giant Food,Manager,54
+Giant Food,Meetings,46
+Giant Food,Office Culture,46
+Giant Food,Outlook,58
+Giant Food,Overall,57
+Giant Food,Perks And Benefits,46
+Giant Food,Professional Development,51
+Giant Food,Retention,53
+Giant Food,Team,62
+Giant Food,Work Culture,62
+"GIANT Food Stores, LLC",CEO Rating,62
+"GIANT Food Stores, LLC",Compensation,63
+"GIANT Food Stores, LLC",Diversity,71
+"GIANT Food Stores, LLC",eNPS,-12
+"GIANT Food Stores, LLC",Environment,74
+"GIANT Food Stores, LLC",Executive Team,61
+"GIANT Food Stores, LLC",Gender,63
+"GIANT Food Stores, LLC",Happiness,65
+"GIANT Food Stores, LLC",Leadership,63
+"GIANT Food Stores, LLC",Manager,66
+"GIANT Food Stores, LLC",Meetings,47
+"GIANT Food Stores, LLC",Office Culture,
+"GIANT Food Stores, LLC",Outlook,67
+"GIANT Food Stores, LLC",Overall,67
+"GIANT Food Stores, LLC",Perks And Benefits,63
+"GIANT Food Stores, LLC",Professional Development,
+"GIANT Food Stores, LLC",Retention,67
+"GIANT Food Stores, LLC",Team,65
+"GIANT Food Stores, LLC",Work Culture,66
+Grocery Outlet,CEO Rating,56
+Grocery Outlet,Compensation,44
+Grocery Outlet,Diversity,54
+Grocery Outlet,eNPS,-27
+Grocery Outlet,Environment,66
+Grocery Outlet,Executive Team,58
+Grocery Outlet,Gender,53
+Grocery Outlet,Happiness,48
+Grocery Outlet,Leadership,55
+Grocery Outlet,Manager,55
+Grocery Outlet,Meetings,55
+Grocery Outlet,Office Culture,
+Grocery Outlet,Outlook,59
+Grocery Outlet,Overall,57
+Grocery Outlet,Perks And Benefits,44
+Grocery Outlet,Professional Development,
+Grocery Outlet,Retention,58
+Grocery Outlet,Team,66
+Grocery Outlet,Work Culture,61
+H E B,CEO Rating,88
+H E B,Compensation,86
+H E B,Diversity,83
+H E B,eNPS,64
+H E B,Environment,82
+H E B,Executive Team,80
+H E B,Gender,85
+H E B,Happiness,88
+H E B,Leadership,81
+H E B,Manager,78
+H E B,Meetings,84
+H E B,Office Culture,69
+H E B,Outlook,87
+H E B,Perks And Benefits,87
+H E B,Professional Development,65
+H E B,Retention,83
+H E B,Team,86
+H E B,Work Culture,85
+Hannaford Supermarket,CEO Rating,59
+Hannaford Supermarket,Compensation,57
+Hannaford Supermarket,Diversity,50
+Hannaford Supermarket,eNPS,-13
+Hannaford Supermarket,Environment,73
+Hannaford Supermarket,Executive Team,54
+Hannaford Supermarket,Gender,59
+Hannaford Supermarket,Happiness,57
+Hannaford Supermarket,Leadership,55
+Hannaford Supermarket,Manager,59
+Hannaford Supermarket,Meetings,55
+Hannaford Supermarket,Office Culture,47
+Hannaford Supermarket,Outlook,64
+Hannaford Supermarket,Overall,61
+Hannaford Supermarket,Perks And Benefits,57
+Hannaford Supermarket,Professional Development,48
+Hannaford Supermarket,Retention,58
+Hannaford Supermarket,Team,67
+Hannaford Supermarket,Work Culture,65
+Harris Teeter,CEO Rating,61
+Harris Teeter,Compensation,61
+Harris Teeter,Diversity,68
+Harris Teeter,eNPS,-23
+Harris Teeter,Environment,73
+Harris Teeter,Executive Team,59
+Harris Teeter,Gender,72
+Harris Teeter,Happiness,63
+Harris Teeter,Leadership,61
+Harris Teeter,Manager,63
+Harris Teeter,Meetings,54
+Harris Teeter,Office Culture,56
+Harris Teeter,Outlook,69
+Harris Teeter,Overall,66
+Harris Teeter,Perks And Benefits,63
+Harris Teeter,Professional Development,63
+Harris Teeter,Retention,65
+Harris Teeter,Team,71
+Harris Teeter,Work Culture,67
+Ingles Markets,CEO Rating,69
+Ingles Markets,Compensation,44
+Ingles Markets,Diversity,75
+Ingles Markets,eNPS,-26
+Ingles Markets,Environment,72
+Ingles Markets,Executive Team,59
+Ingles Markets,Gender,61
+Ingles Markets,Happiness,49
+Ingles Markets,Leadership,62
+Ingles Markets,Manager,62
+Ingles Markets,Meetings,41
+Ingles Markets,Office Culture,58
+Ingles Markets,Outlook,63
+Ingles Markets,Overall,59
+Ingles Markets,Perks And Benefits,43
+Ingles Markets,Professional Development,39
+Ingles Markets,Retention,57
+Ingles Markets,Team,63
+Ingles Markets,Work Culture,65
+Jewel Osco,CEO Rating,55
+Jewel Osco,Compensation,62
+Jewel Osco,Diversity,62
+Jewel Osco,eNPS,-40
+Jewel Osco,Environment,74
+Jewel Osco,Executive Team,54
+Jewel Osco,Gender,60
+Jewel Osco,Happiness,65
+Jewel Osco,Leadership,56
+Jewel Osco,Manager,57
+Jewel Osco,Meetings,50
+Jewel Osco,Office Culture,65
+Jewel Osco,Outlook,64
+Jewel Osco,Overall,63
+Jewel Osco,Perks And Benefits,67
+Jewel Osco,Professional Development,54
+Jewel Osco,Retention,64
+Jewel Osco,Team,67
+Jewel Osco,Work Culture,65
+King Soopers,CEO Rating,59
+King Soopers,Compensation,64
+King Soopers,Diversity,72
+King Soopers,eNPS,-57
+King Soopers,Environment,70
+King Soopers,Executive Team,58
+King Soopers,Gender,48
+King Soopers,Happiness,63
+King Soopers,Leadership,57
+King Soopers,Manager,57
+King Soopers,Meetings,39
+King Soopers,Office Culture,45
+King Soopers,Outlook,66
+King Soopers,Overall,59
+King Soopers,Perks And Benefits,51
+King Soopers,Professional Development,39
+King Soopers,Retention,60
+King Soopers,Team,66
+King Soopers,Work Culture,64
+Kroger,CEO Rating,56
+Kroger,Compensation,57
+Kroger,Diversity,63
+Kroger,eNPS,-23
+Kroger,Environment,69
+Kroger,Executive Team,55
+Kroger,Gender,63
+Kroger,Happiness,57
+Kroger,Leadership,56
+Kroger,Manager,59
+Kroger,Meetings,45
+Kroger,Office Culture,52
+Kroger,Outlook,62
+Kroger,Overall,60
+Kroger,Perks And Benefits,62
+Kroger,Professional Development,48
+Kroger,Retention,59
+Kroger,Team,66
+Kroger,Work Culture,63
+Meijer,CEO Rating,63
+Meijer,Compensation,65
+Meijer,Diversity,63
+Meijer,eNPS,-9
+Meijer,Environment,71
+Meijer,Executive Team,59
+Meijer,Gender,61
+Meijer,Happiness,67
+Meijer,Leadership,61
+Meijer,Manager,61
+Meijer,Meetings,50
+Meijer,Office Culture,56
+Meijer,Outlook,64
+Meijer,Overall,64
+Meijer,Perks And Benefits,68
+Meijer,Professional Development,42
+Meijer,Retention,64
+Meijer,Team,68
+Meijer,Work Culture,66
+Natural Grocers by Vitamin Cottage,CEO Rating,76
+Natural Grocers by Vitamin Cottage,Compensation,74
+Natural Grocers by Vitamin Cottage,Diversity,
+Natural Grocers by Vitamin Cottage,eNPS,25
+Natural Grocers by Vitamin Cottage,Environment,77
+Natural Grocers by Vitamin Cottage,Executive Team,68
+Natural Grocers by Vitamin Cottage,Gender,
+Natural Grocers by Vitamin Cottage,Happiness,79
+Natural Grocers by Vitamin Cottage,Leadership,70
+Natural Grocers by Vitamin Cottage,Manager,70
+Natural Grocers by Vitamin Cottage,Meetings,64
+Natural Grocers by Vitamin Cottage,Office Culture,
+Natural Grocers by Vitamin Cottage,Outlook,72
+Natural Grocers by Vitamin Cottage,Overall,72
+Natural Grocers by Vitamin Cottage,Perks And Benefits,74
+Natural Grocers by Vitamin Cottage,Professional Development,
+Natural Grocers by Vitamin Cottage,Retention,75
+Natural Grocers by Vitamin Cottage,Team,79
+Natural Grocers by Vitamin Cottage,Work Culture,78
+Publix Super Markets,CEO Rating,75
+Publix Super Markets,Compensation,78
+Publix Super Markets,Diversity,75
+Publix Super Markets,eNPS,23
+Publix Super Markets,Environment,77
+Publix Super Markets,Executive Team,73
+Publix Super Markets,Gender,76
+Publix Super Markets,Happiness,80
+Publix Super Markets,Leadership,73
+Publix Super Markets,Manager,73
+Publix Super Markets,Meetings,74
+Publix Super Markets,Office Culture,61
+Publix Super Markets,Outlook,79
+Publix Super Markets,Overall,75
+Publix Super Markets,Perks And Benefits,77
+Publix Super Markets,Professional Development,59
+Publix Super Markets,Retention,74
+Publix Super Markets,Team,79
+Publix Super Markets,Work Culture,77
+Ralphs,CEO Rating,65
+Ralphs,Compensation,63
+Ralphs,Diversity,58
+Ralphs,eNPS,-46
+Ralphs,Environment,63
+Ralphs,Executive Team,54
+Ralphs,Gender,71
+Ralphs,Happiness,68
+Ralphs,Leadership,58
+Ralphs,Manager,53
+Ralphs,Meetings,68
+Ralphs,Office Culture,
+Ralphs,Outlook,68
+Ralphs,Overall,61
+Ralphs,Perks And Benefits,66
+Ralphs,Professional Development,
+Ralphs,Retention,64
+Ralphs,Team,69
+Ralphs,Work Culture,65
+Safeway,CEO Rating,53
+Safeway,Compensation,54
+Safeway,Diversity,63
+Safeway,eNPS,-39
+Safeway,Environment,68
+Safeway,Executive Team,50
+Safeway,Gender,56
+Safeway,Happiness,54
+Safeway,Leadership,53
+Safeway,Manager,56
+Safeway,Meetings,43
+Safeway,Office Culture,50
+Safeway,Outlook,55
+Safeway,Overall,57
+Safeway,Perks And Benefits,57
+Safeway,Professional Development,45
+Safeway,Retention,57
+Safeway,Team,63
+Safeway,Work Culture,60
+Sam's Club,CEO Rating,63
+Sam's Club,Compensation,66
+Sam's Club,Diversity,69
+Sam's Club,eNPS,-8
+Sam's Club,Environment,71
+Sam's Club,Executive Team,59
+Sam's Club,Gender,63
+Sam's Club,Happiness,64
+Sam's Club,Leadership,59
+Sam's Club,Manager,58
+Sam's Club,Meetings,55
+Sam's Club,Office Culture,52
+Sam's Club,Outlook,66
+Sam's Club,Overall,64
+Sam's Club,Perks And Benefits,65
+Sam's Club,Professional Development,45
+Sam's Club,Retention,65
+Sam's Club,Team,70
+Sam's Club,Work Culture,67
+Save-A-Lot,CEO Rating,51
+Save-A-Lot,Compensation,43
+Save-A-Lot,Diversity,55
+Save-A-Lot,eNPS,-25
+Save-A-Lot,Environment,73
+Save-A-Lot,Executive Team,58
+Save-A-Lot,Gender,60
+Save-A-Lot,Happiness,53
+Save-A-Lot,Leadership,58
+Save-A-Lot,Manager,64
+Save-A-Lot,Meetings,52
+Save-A-Lot,Office Culture,53
+Save-A-Lot,Outlook,63
+Save-A-Lot,Overall,57
+Save-A-Lot,Perks And Benefits,45
+Save-A-Lot,Professional Development,41
+Save-A-Lot,Retention,55
+Save-A-Lot,Team,63
+Save-A-Lot,Work Culture,64
+Shoprite Supermarkets,CEO Rating,61
+Shoprite Supermarkets,Compensation,56
+Shoprite Supermarkets,Diversity,61
+Shoprite Supermarkets,eNPS,-9
+Shoprite Supermarkets,Environment,75
+Shoprite Supermarkets,Executive Team,60
+Shoprite Supermarkets,Gender,64
+Shoprite Supermarkets,Happiness,61
+Shoprite Supermarkets,Leadership,60
+Shoprite Supermarkets,Manager,60
+Shoprite Supermarkets,Meetings,52
+Shoprite Supermarkets,Office Culture,66
+Shoprite Supermarkets,Outlook,64
+Shoprite Supermarkets,Overall,63
+Shoprite Supermarkets,Perks And Benefits,60
+Shoprite Supermarkets,Professional Development,44
+Shoprite Supermarkets,Retention,61
+Shoprite Supermarkets,Team,68
+Shoprite Supermarkets,Work Culture,67
+Smith's Food and Drug,CEO Rating,48
+Smith's Food and Drug,Compensation,65
+Smith's Food and Drug,Diversity,52
+Smith's Food and Drug,eNPS,-34
+Smith's Food and Drug,Environment,65
+Smith's Food and Drug,Executive Team,50
+Smith's Food and Drug,Gender,59
+Smith's Food and Drug,Happiness,59
+Smith's Food and Drug,Leadership,47
+Smith's Food and Drug,Manager,50
+Smith's Food and Drug,Meetings,43
+Smith's Food and Drug,Office Culture,
+Smith's Food and Drug,Outlook,63
+Smith's Food and Drug,Overall,57
+Smith's Food and Drug,Perks And Benefits,70
+Smith's Food and Drug,Professional Development,
+Smith's Food and Drug,Retention,59
+Smith's Food and Drug,Team,59
+Smith's Food and Drug,Work Culture,58
+Sprouts Farmers Market,CEO Rating,50
+Sprouts Farmers Market,Compensation,49
+Sprouts Farmers Market,Diversity,51
+Sprouts Farmers Market,eNPS,-41
+Sprouts Farmers Market,Environment,67
+Sprouts Farmers Market,Executive Team,46
+Sprouts Farmers Market,Gender,53
+Sprouts Farmers Market,Happiness,50
+Sprouts Farmers Market,Leadership,46
+Sprouts Farmers Market,Manager,45
+Sprouts Farmers Market,Meetings,48
+Sprouts Farmers Market,Office Culture,38
+Sprouts Farmers Market,Outlook,57
+Sprouts Farmers Market,Overall,53
+Sprouts Farmers Market,Perks And Benefits,52
+Sprouts Farmers Market,Professional Development,26
+Sprouts Farmers Market,Retention,49
+Sprouts Farmers Market,Team,59
+Sprouts Farmers Market,Work Culture,58
+Stater Bros.,CEO Rating,60
+Stater Bros.,Compensation,89
+Stater Bros.,Diversity,
+Stater Bros.,eNPS,0
+Stater Bros.,Environment,59
+Stater Bros.,Executive Team,73
+Stater Bros.,Gender,
+Stater Bros.,Happiness,77
+Stater Bros.,Leadership,67
+Stater Bros.,Manager,63
+Stater Bros.,Meetings,68
+Stater Bros.,Office Culture,
+Stater Bros.,Outlook,58
+Stater Bros.,Overall,70
+Stater Bros.,Perks And Benefits,83
+Stater Bros.,Professional Development,
+Stater Bros.,Retention,77
+Stater Bros.,Team,79
+Stater Bros.,Work Culture,65
+Stop & Shop,CEO Rating,54
+Stop & Shop,Compensation,50
+Stop & Shop,Diversity,56
+Stop & Shop,eNPS,-41
+Stop & Shop,Environment,65
+Stop & Shop,Executive Team,54
+Stop & Shop,Gender,55
+Stop & Shop,Happiness,51
+Stop & Shop,Leadership,54
+Stop & Shop,Manager,55
+Stop & Shop,Meetings,39
+Stop & Shop,Office Culture,59
+Stop & Shop,Outlook,52
+Stop & Shop,Overall,55
+Stop & Shop,Perks And Benefits,52
+Stop & Shop,Professional Development,61
+Stop & Shop,Retention,53
+Stop & Shop,Team,53
+Stop & Shop,Work Culture,56
+Target,CEO Rating,67
+Target,Compensation,66
+Target,Diversity,68
+Target,eNPS,1
+Target,Environment,75
+Target,Executive Team,66
+Target,Gender,70
+Target,Happiness,69
+Target,Leadership,66
+Target,Manager,66
+Target,Meetings,61
+Target,Office Culture,59
+Target,Outlook,71
+Target,Overall,69
+Target,Perks And Benefits,66
+Target,Professional Development,54
+Target,Retention,69
+Target,Team,74
+Target,Work Culture,71
+The Fresh Market,CEO Rating,49
+The Fresh Market,Compensation,65
+The Fresh Market,Diversity,54
+The Fresh Market,eNPS,-27
+The Fresh Market,Environment,67
+The Fresh Market,Executive Team,51
+The Fresh Market,Gender,60
+The Fresh Market,Happiness,60
+The Fresh Market,Leadership,53
+The Fresh Market,Manager,59
+The Fresh Market,Meetings,50
+The Fresh Market,Office Culture,
+The Fresh Market,Outlook,55
+The Fresh Market,Overall,61
+The Fresh Market,Perks And Benefits,61
+The Fresh Market,Professional Development,63
+The Fresh Market,Retention,66
+The Fresh Market,Team,65
+The Fresh Market,Work Culture,58
+Trader Joe's,CEO Rating,71
+Trader Joe's,Compensation,79
+Trader Joe's,Diversity,76
+Trader Joe's,eNPS,44
+Trader Joe's,Environment,81
+Trader Joe's,Executive Team,70
+Trader Joe's,Gender,76
+Trader Joe's,Happiness,81
+Trader Joe's,Leadership,71
+Trader Joe's,Manager,75
+Trader Joe's,Meetings,69
+Trader Joe's,Office Culture,41
+Trader Joe's,Outlook,83
+Trader Joe's,Overall,78
+Trader Joe's,Perks And Benefits,77
+Trader Joe's,Professional Development,38
+Trader Joe's,Retention,79
+Trader Joe's,Team,81
+Trader Joe's,Work Culture,80
+Vons,CEO Rating,62
+Vons,Compensation,69
+Vons,Diversity,68
+Vons,eNPS,-10
+Vons,Environment,71
+Vons,Executive Team,63
+Vons,Gender,59
+Vons,Happiness,67
+Vons,Leadership,64
+Vons,Manager,62
+Vons,Meetings,57
+Vons,Office Culture,70
+Vons,Outlook,68
+Vons,Overall,67
+Vons,Perks And Benefits,71
+Vons,Professional Development,66
+Vons,Retention,66
+Vons,Team,69
+Vons,Work Culture,67
+Walmart,CEO Rating,63
+Walmart,Compensation,62
+Walmart,Diversity,66
+Walmart,eNPS,-11
+Walmart,Environment,71
+Walmart,Executive Team,61
+Walmart,Gender,65
+Walmart,Happiness,64
+Walmart,Leadership,62
+Walmart,Manager,62
+Walmart,Meetings,58
+Walmart,Office Culture,59
+Walmart,Outlook,65
+Walmart,Overall,65
+Walmart,Perks And Benefits,63
+Walmart,Professional Development,54
+Walmart,Retention,64
+Walmart,Team,69
+Walmart,Work Culture,67
+Wegmans,CEO Rating,84
+Wegmans,Compensation,80
+Wegmans,Diversity,78
+Wegmans,eNPS,45
+Wegmans,Environment,80
+Wegmans,Executive Team,79
+Wegmans,Gender,83
+Wegmans,Happiness,83
+Wegmans,Leadership,80
+Wegmans,Manager,76
+Wegmans,Meetings,75
+Wegmans,Office Culture,62
+Wegmans,Outlook,85
+Wegmans,Overall,81
+Wegmans,Perks And Benefits,82
+Wegmans,Professional Development,71
+Wegmans,Retention,80
+Wegmans,Team,83
+Wegmans,Work Culture,82
+Whole Foods Market,CEO Rating,71
+Whole Foods Market,Compensation,69
+Whole Foods Market,Diversity,76
+Whole Foods Market,eNPS,17
+Whole Foods Market,Environment,79
+Whole Foods Market,Executive Team,75
+Whole Foods Market,Gender,74
+Whole Foods Market,Happiness,75
+Whole Foods Market,Leadership,75
+Whole Foods Market,Manager,79
+Whole Foods Market,Meetings,65
+Whole Foods Market,Office Culture,78
+Whole Foods Market,Outlook,79
+Whole Foods Market,Overall,75
+Whole Foods Market,Perks And Benefits,64
+Whole Foods Market,Professional Development,74
+Whole Foods Market,Retention,77
+Whole Foods Market,Team,81
+Whole Foods Market,Work Culture,78
+WINCO FOODS,CEO Rating,60
+WINCO FOODS,Compensation,66
+WINCO FOODS,Diversity,74
+WINCO FOODS,eNPS,42
+WINCO FOODS,Environment,77
+WINCO FOODS,Executive Team,70
+WINCO FOODS,Gender,66
+WINCO FOODS,Happiness,65
+WINCO FOODS,Leadership,69
+WINCO FOODS,Manager,65
+WINCO FOODS,Meetings,52
+WINCO FOODS,Office Culture,
+WINCO FOODS,Outlook,75
+WINCO FOODS,Overall,70
+WINCO FOODS,Perks And Benefits,73
+WINCO FOODS,Professional Development,
+WINCO FOODS,Retention,66
+WINCO FOODS,Team,65
+WINCO FOODS,Work Culture,70
+Winn Dixie Stores,CEO Rating,59
+Winn Dixie Stores,Compensation,52
+Winn Dixie Stores,Diversity,58
+Winn Dixie Stores,eNPS,-20
+Winn Dixie Stores,Environment,70
+Winn Dixie Stores,Executive Team,63
+Winn Dixie Stores,Gender,64
+Winn Dixie Stores,Happiness,56
+Winn Dixie Stores,Leadership,63
+Winn Dixie Stores,Manager,65
+Winn Dixie Stores,Meetings,48
+Winn Dixie Stores,Office Culture,61
+Winn Dixie Stores,Outlook,60
+Winn Dixie Stores,Overall,61
+Winn Dixie Stores,Perks And Benefits,56
+Winn Dixie Stores,Professional Development,62
+Winn Dixie Stores,Retention,60
+Winn Dixie Stores,Team,62
+Winn Dixie Stores,Work Culture,63

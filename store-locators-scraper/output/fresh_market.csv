@@ -1,0 +1,160 @@
+store_id,Address,City,State,Zip Code
+1,"4700 US-280, Ste 6",Birmingham,AL,35242
+2,"6900 US Highway 90, Ste 2",Daphne,AL,36526
+3,549 Brookwood Village,Homewood,AL,35209
+4,4800 Whitesburg Dr SW,Huntsville,AL,35802
+5,"3940 Airport Blvd, Ste A",Mobile,AL,36605
+6,1635 Perry Hill Rd,Montgomery,AL,36106
+7,"1320 McFarland Blvd E, Ste 100",Tuscaloosa,AL,35404
+8,"11525 Cantrell Rd, Ste 800",Little Rock,AR,72212
+9,"2203 S Promenade Blvd, Ste 12100",Rogers,AR,72758
+10,315 W Main St,Avon,CT, 6001
+11,"1919 Boston Post Rd, Ste 305",Guilford,CT, 6437
+12,605 Post Rd E,Westport,CT, 6880
+13,30098 Veterans Way,Rehoboth Beach,DE,19971
+14,18299 Biscayne Blvd,Aventura,FL,33160
+15,5540 N Military Trail,Boca Raton,FL,33496
+16,20409 State Road 7,Boca Raton,FL,33498
+17,100 W Camino Real,Boca Raton,FL,33432
+18,27251 Bay Landing Dr,Bonita Springs,FL,34135
+19,6701 Manatee Ave W,Bradenton,FL,34209
+20,25961 US Hwy 19 N,Clearwater,FL,33763
+21,4633 N University Dr,Coral Springs,FL,33067
+22,1727 S Federal Hwy,Delray Beach,FL,33483
+23,4495 Commons Dr W,Destin,FL,32541
+24,3580 NW 83rd Ave,Doral,FL,33166
+25,"1960 E West Pkwy, Ste 100",Fleming Island,FL,32003
+26,424 N Federal Hwy,Fort Lauderdale,FL,33301
+27,3820 N Federal Hwy,Fort Lauderdale,FL,33308
+28,13499 S Cleveland Ave,Fort Myers,FL,33907
+29,4120 NW 16th Blvd,Gainesville,FL,32605
+30,"12795 San Jose Blvd, Ste 1",Jacksonville,FL,32223
+31,"150 Riverside Ave, Ste 200",Jacksonville,FL,32202
+32,13493 Atlantic Blvd,Jacksonville,FL,32225
+33,311 E Indiantown Rd,Jupiter,FL,33477
+34,612 Centerview Blvd,Kissimmee,FL,34741
+35,3775 Lake Emma Rd,Lake Mary,FL,32746
+36,6385 N Wickham Rd,Melbourne,FL,32940
+37,2640 S Bayshore Dr,Miami,FL,33133
+38,8760 SW 136th St,Miami,FL,33176
+39,1800 West Ave,Miami Beach,FL,33139
+40,4129 Tamiami Trail N,Naples,FL,34103
+41,12628 Tamiami Trail E,Naples,FL,34113
+42,5000 Dr Phillips Blvd,Orlando,FL,32819
+43,1500 N Mills Ave,Orlando,FL,32803
+44,"15500 Panama City Beach Pkwy, Ste 200",Panama City Beach,FL,32413
+45,"2200 N Flamingo Rd, Ste 14A",Pembroke Pines,FL,33028
+46,"1650 Airport Blvd, Ste 400",Pensacola,FL,32504
+47,12171 W Sunrise Blvd,Plantation,FL,33323
+48,840 A1A N,Ponte Vedra Beach,FL,32082
+49,2900 4th St N,St. Petersburg,FL,33704
+50,2300 SE Ocean Blvd,Stuart,FL,34996
+51,1390 Village Square Blvd,Tallahassee,FL,32312
+52,3722 Henderson Blvd,Tampa,FL,33609
+53,13147 N Dale Mabry Hwy,Tampa,FL,33618
+54,3740 Wedgewood Ln,The Villages,FL,32162
+55,5251 University Pkwy,University Park,FL,34201
+56,3468 Lithia Pinecrest Rd,Valrico,FL,33596
+57,526-A 21st St,Vero Beach,FL,32960
+58,10640 Forest Hill Blvd,Wellington,FL,33414
+59,5920 Red Bug Lake Rd,Winter Springs,FL,32708
+60,3005 Old Alabama Rd,Alpharetta,GA,30022
+61,"196 Alps Rd, Ste 50",Athens,GA,30606
+62,2099 Peachtree Rd NW,Atlanta,GA,30309
+63,4405 Roswell Road NE,Atlanta,GA,30342
+64,"2701 Washington Rd, Ste 12",Augusta,GA,30909
+65,"1591 Bradley Park Dr, Ste B",Columbus,GA,31904
+66,5515 Chamblee Dunwoody Rd,Dunwoody,GA,30338
+67,4357 Forsyth Rd,Macon,GA,31210
+68,100 N Peachtree Pkwy,Peachtree City,GA,30269
+69,"1125 Woodstock Rd, Ste 400",Roswell,GA,30075
+70,5525 Abercorn St,Savannah,GA,31405
+71,"1500 Peachtree Industrial Blvd, Ste 300",Suwanee,GA,30024
+72,5808 Northwest Hwy,Crystal Lake,IL,60014
+73,718 Commons Dr,Geneva,IL,60134
+74,850 N Western Ave,Lake Forest,IL,60045
+75,"3232 Lake Ave, Ste 150",Wilmette,IL,60091
+76,2490 E 146th St,Carmel,IN,46033
+77,6401 E Lloyd Expy,Evansville,IN,47715
+78,6306 W Jefferson Blvd,Fort Wayne,IN,46804
+79,5415 N College Ave,Indianapolis,IN,46220
+80,3387 Tates Creek Rd,Lexington,KY,40502
+81,1805 Rudy Ln,Louisville,KY,40207
+82,10555 Perkins Rd,Baton Rouge,LA,70810
+83,1810 Kaliste Saloom Rd,Lafayette,LA,70508
+84,1816 N Causeway Blvd,Mandeville,LA,70471
+85,"755 Veterans Memorial Blvd, Ste A",Metairie,LA,70005
+86,3338 St Charles Ave,New Orleans,LA,70115
+87,2504 Solomons Island Rd,Annapolis,MD,21401
+88,2510 Quarry Lake Dr,Baltimore,MD,21209
+89,1649 Rockville Pike,Rockville,MD,20852
+90,838 Dulaney Valley Rd,Towson,MD,21204
+91,11 Essington Dr,Hingham,MA, 2043
+92,"1000 Highland Colony Pkwy, Ste 1001",Ridgeland,MS,39157
+93,75 Washington Valley Rd,Bedminster,NJ, 7921
+94,32 Chestnut Ridge Rd,Montvale,NJ, 7645
+95,664 New Loudon Rd,Latham,NY,12110
+96,52 Marion Ave,Saratoga Springs,NY,12866
+97,723 White Plains Rd,Scarsdale,NY,10583
+98,138 E Main St,Smithtown,NY,11787
+99,944 Merrimon Ave,Asheville,NC,28804
+100,"1378 Hendersonville Rd, Ste H",Asheville,NC,28803
+101,3655 SW Cary Pkwy,Cary,NC,27513
+102,1200A Raleigh Rd,Chapel Hill,NC,27517
+103,4207 Providence Rd,Charlotte,NC,28211
+104,"10828 Providence Rd, Ste 100",Charlotte,NC,28277
+105,"1408 East Blvd, Ste C",Charlotte,NC,28203
+106,7625 Pineville-Matthews Rd,Charlotte,NC,28226
+107,20623 Torrence Chapel Rd,Cornelius,NC,28031
+108,"4215 University Dr, Ste A3",Durham,NC,27707
+109,230 Glensford Dr,Fayetteville,NC,28314
+110,3712 Lawndale Dr,Greensboro,NC,27455
+111,1560 Highwoods Blvd,Greensboro,NC,27410
+112,"950 Criswell Dr, Ste 111",Greenville,NC,27834
+113,223 Greenville Hwy,Hendersonville,NC,28792
+114,"5000 S Croatan Hwy, Ste 5000",Nags Head,NC,27959
+115,6325 Falls of Neuse Rd,Raleigh,NC,27615
+116,400 Woodburn Rd,Raleigh,NC,27605
+117,155 Beverly Ln,Southern Pines,NC,28387
+118,1060 International Dr,Wilmington,NC,28405
+119,3285 Robinhood Rd,Winston-Salem,NC,27106
+120,3088 Madison Road,Cincinnati,OH,45209
+121,7888 Montgomery Rd,Cincinnati,OH,45236
+122,3315 W Central Ave,Toledo,OH,43606
+123,7720 Voice of America Centre Dr,West Chester,OH,45069
+124,8015 S Yale Ave,Tulsa,OK,74136
+125,3060 Center Valley Pkwy,Center Valley,PA,18034
+126,925 Baltimore Pike,Glen Mills,PA,19342
+127,"100 Welsh Rd, Ste D",Horsham,PA,19044
+128,1551 Washington Rd,Mt Lebanon,PA,15228
+129,8208-18 Germantown Ave,Philadelphia,PA,19118
+130,1400 Whiskey Rd,Aiken,SC,29803
+131,10286 Two Notch Rd,Columbia,SC,29229
+132,4840 Forest Dr,Columbia,SC,29206
+133,"1601 Woodruff Rd, Ste E",Greenville,SC,29607
+134,"27 S Pleasantburg Dr, Ste 10",Greenville,SC,29607
+135,"890 William Hilton Pkwy, Ste 110",Hilton Head Island,SC,29928
+136,7747 N Kings Hwy,Myrtle Beach,SC,29572
+137,11421-A Ocean Hwy,Pawleys Island,SC,29585
+138,1200 E Main St,Spartanburg,SC,29307
+139,235 Franklin Rd,Brentwood,TN,37027
+140,"2288 Gunbarrel Rd, Ste 124",Chattanooga,TN,37421
+141,11535 Kingston Pike,Farragut,TN,37934
+142,9375 Poplar Ave,Germantown,TN,38138
+143,"421 N State of Franklin Rd, Ste 200",Johnson City,TN,37601
+144,4475 Kingston Pike,Knoxville,TN,37919
+145,"2145 Union Ave, Ste 110",Memphis,TN,38104
+146,835 S White Station Rd,Memphis,TN,38117
+147,3680 King St,Alexandria,VA,22302
+148,"3901 Old Forest Rd, Ste A",Lynchburg,VA,24501
+149,4600 Commonwealth Centre Pkwy,Midlothian,VA,23112
+150,1200 Huguenot Rd,Midlothian,VA,23113
+151,12131 Jefferson Ave,Newport News,VA,23602
+152,924 W 21st St,Norfolk,VA,23517
+153,"10 N Nansemond St, Ste B",Richmond,VA,23221
+154,1527 N Parham Rd,Richmond,VA,23229
+155,2207 Colonial Ave SW,Roanoke,VA,24015
+156,150 Branch Rd SE,Vienna,VA,22180
+157,"4588 Virginia Beach Blvd, Ste 106",Virginia Beach,VA,23462
+158,744 Hilltop North Shopping Center,Virginia Beach,VA,23451
+159,5231 Monticello Ave,Williamsburg,VA,23188

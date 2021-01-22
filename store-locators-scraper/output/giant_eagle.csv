@@ -1,0 +1,218 @@
+store_id,address,city,state,zip_code
+1,2801 East Waterloo Road,Akron,OH ,44312
+2,484 East Waterloo Road,Akron,OH ,44319
+3,3750 W Market Street,Akron,OH ,44333
+4,1800 W. State,Alliance,OH ,44601
+5,2201 Kresge Drive,Amherst,OH ,44001
+6,2390 Prospect Avenue,Ashtabula,OH ,44004
+7,31990 Walker Road,Avon Lake,OH ,44012
+8,8515 Tanglewood Square,Bainbridge Township,OH ,44023
+9,41 5th Street S.E.,Barberton,OH ,44203
+10,24601 Chagrin Blvd.,Beachwood,OH ,44122
+11,900 Northfield Road,Bedford,OH ,44146
+12,50 West Bridge Street,Berea,OH ,44017
+13,11031 State Rt. 212 - N.E.,Bolivar,OH ,44612
+14,4343 Royalton Road,Broadview Heights,OH ,44147
+15,14650 Snow Road,Brook Park,OH ,44142
+16,6300 Biddulph Road,Brooklyn,OH ,44144
+17,3440 Center Road,Brunswick,OH ,44212
+18,2275 Locust Street,Canal Fulton,OH ,44614
+19,525 East Main Street,Canfield,OH ,44406
+20,"3100 Cromer Avenue, N.W.",Canton,OH ,44709
+21,"608 Raff Road, SW",Canton,OH ,44710
+22,351 Center Street,Chardon,OH ,44024
+23,12692 Chillicothe Road,Chesterland,OH ,44026
+24,3050 W. 117th Street,Cleveland,OH ,44111
+25,7939 Day Drive,Cleveland,OH ,44129
+26,15325 Edgecliff Avenue,Cleveland,OH ,44111
+27,6867 East Broad Street,Columbus,OH ,43213
+28,280 E. Whittier Street,Columbus,OH ,43206
+29,1250 N. Hamilton Road,Columbus,OH ,43230
+30,4780 West Broad Street,Columbus,OH ,43228
+31,2900 Stelzer Road,Columbus,OH ,43219
+32,2801 N. High Street,Columbus,OH ,43202
+33,4747 Sawmill Road,Columbus,OH ,43220
+34,840 W 3rd Avenue,Columbus,OH ,43212
+35,3061 Kingsdale Center,Columbus,OH ,43221
+36,230 Howe Avenue,Cuyahoga Falls,OH ,44221
+37,2687 State Road,Cuyahoga Falls,OH ,44223
+38,515 Union Avenue,Dover,OH ,44622
+39,6700 Perimeter Loop Road,Dublin,OH ,43017
+40,15937 State Route 170,East Liverpool,OH ,43920
+41,619 Bradshaw Avenue,East Liverpool,OH ,43920
+42,320 Market Drive,Elyria,OH ,44035
+43,2775 West Market Street,Fairlawn,OH ,44333
+44,21593 Lorain Road,Fairview Park,OH ,44126
+45,5744 Transportation Blvd,Garfield Heights,OH ,44125
+46,755 South Broadway Avenue,Geneva,OH ,44041
+47,2173 Stringtown Road,Grove City,OH ,43123
+48,3841 S. Hamilton Road,Groveport,OH ,43125
+49,907 West Maple Street,Hartville,OH ,44632
+50,4001 Britton Parkway,Hilliard,OH ,43026
+51,6700 Hayden Run Road,Hilliard,OH ,43026
+52,14100 Detroit Ave.,Lakewood,OH ,44107
+53,1394 Ety Shops Way,Lancaster,OH ,43130
+54,55 Meadow Park Ave,Lewis Center,OH ,43035
+55,108 West Main Street,Louisville,OH ,44641
+56,25105 Cedar Road,Lyndhurst,OH ,44124
+57,5321 Warrensville Center Road,Maple Heights,OH ,44137
+58,128 Gross Street,Marietta,OH ,45750
+59,2032 Lincoln Way,Massillon,OH ,44646
+60,6259 Mayfield Road,Mayfield Heights,OH ,44124
+61,870 N. Court,Medina,OH ,44256
+62,7960 Plaza Boulevard,Mentor,OH ,44060
+63,6079 Andrew Road,Mentor On The Lake,OH ,44060
+64,6869 Southland Drive,Middleburg Heights,OH ,44130
+65,15400 West High Street,Middlefield,OH ,44062
+66,5461 New Albany Road West,New Albany,OH ,43054
+67,553 Hebron Road,Newark,OH ,43056
+68,48 Vienna Avenue,Niles,OH ,44446
+69,6493 Strip Avenue N.W.,North Canton,OH ,44720
+70,1955 East Maple Street,North Canton,OH ,44720
+71,6556 North Ridge Road,North Madison,OH ,44057
+72,27264 Lorain Road,North Olmsted,OH ,44070
+73,34325 Center Ridge Road,North Ridgeville,OH ,44039
+74,6000 Royalton Road,North Royalton,OH ,44133
+75,290 East Aurora Road,Northfield,OH ,44067
+76,1201 Mentor Avenue,Painesville,OH ,44077
+77,7400 Broadview Road,Parma,OH ,44134
+78,1825 Snow Road,Parma,OH ,44134
+79,873 Refugee Road,Pickerington,OH ,43147
+80,3130 Center Road,Poland,OH ,44514
+81,4000 W. Powell Road,Powell,OH ,43065
+82,909 East Main Street,Ravenna,OH ,44266
+83,22160 Center Ridge Road,Rocky River,OH ,44116
+84,4260 State Route 44,Rootstown,OH ,44272
+85,2401 East State Street,Salem,OH ,44460
+86,5231 Detroit Road,Sheffield Lake,OH ,44054
+87,34310 Aurora Road,Solon,OH ,44139
+88,4401 Mayfield Road,South Euclid,OH ,44121
+89,4300 Kent Road State Rd. #59,Stow,OH ,44224
+90,1700 Norton Road,Stow,OH ,44224
+91,1280 State Route 303,Streetsboro,OH ,44241
+92,15919 Pearl Road,Strongsville,OH ,44136
+93,205 West Avenue,Tallmadge,OH ,44278
+94,8960 Darrow Road,Twinsburg,OH ,44087
+95,1700 Corporate Woods Parkway,Uniontown,OH ,44685
+96,4453 Liberty Avenue,Vermilion,OH ,44089
+97,825 Ambassador Drive,Wadsworth,OH ,44281
+98,8202 East Market Street,Warren,OH ,44484
+99,2700 Mahoning Avenue N.W.,Warren,OH ,44483
+100,2061 Elm Road,Warren,OH ,44483
+101,4428 Broadview Road,West Richfield,OH ,44286
+102,650 N. State Street,Westerville,OH ,43082
+103,30275 Detroit Road,Westlake,OH ,44145
+104,30664 Detroit Rd,Westlake,OH ,44145
+105,36475 Euclid Avenue,Willoughby,OH ,44094
+106,27505 Chardon Road,Willoughby Hills,OH ,44092
+107,30320 Lakeshore Boulevard,Willowick,OH ,44095
+108,5220 Mahoning Avenue,Youngstown,OH ,44515
+109,476 Boardman-Canfield Road,Youngstown,OH ,44512
+110,4700 Belmont Avenue,Youngstown,OH ,44505
+111,1201 Doral Drive,Youngstown,OH ,44514
+112,1 University Plaza,Youngstown,OH ,44505
+113,3113 Green Garden Road,Aliquippa,PA ,15001
+114,1600 West State Street,Baden,PA ,15005
+115,2650 Constitution Boulevard,Beaver Falls,PA ,15010
+116,510 East Pitt Street,Bedford,PA ,15522
+117,300 Tri County Lane,Belle Vernon,PA ,15012
+118,155 Wilson Road,Bentleyville,PA ,15314
+119,"5055 Library Road, Suite 5",Bethel Park,PA ,15102
+120,7000 Oxford Drive Village Square,Bethel Park,PA ,15102
+121,1025 Washington Pike,Bridgeville,PA ,15017
+122,3239 Washington Pike,Bridgeville,PA ,15017
+123,40 White Street,Brookville,PA ,15825
+124,1521 North Main Street,Butler,PA ,16001
+125,700 Moraine Pointe Plaza,Butler,PA ,16001
+126,5990 University Blvd Suite 4,Coraopolis,PA ,15108
+127,20111 Route 19,Cranberry Township,PA ,16066
+128,100 N Main Street,Dubois,PA ,15801
+129,881 College Plaza,Ebensburg,PA ,15931
+130,606 Erie Street,Edinboro,PA ,16412
+131,800 McKeesport Rd,Elizabeth,PA ,15037
+132,289 State Route 288,Ellwood City,PA ,16117
+133,4265 Buffalo Road,Erie,PA ,16510
+134,2067 Interchange Rd,Erie,PA ,16509
+135,2501 West 12th Street,Erie,PA ,16505
+136,4810 Old William Penn Hwy,Export,PA ,15632
+137,3701 Route 88,Finleyville,PA ,15332
+138,541 Allegheny Boulevard,Franklin,PA ,16323
+139,5600 William Flynn Highway,Gibsonia,PA ,15044
+140,9125 West Ridge Road Box 162,Girard,PA ,16417
+141,1671 Butler Plank Road,Glenshaw,PA ,15116
+142,5142 Route 30,Greensburg,PA ,15601
+143,6204 Route 30 Hempfield Square SC,Greensburg,PA ,15601
+144,50 Hadley Road,Greenville,PA ,16125
+145,2365 East State Street,Hermitage,PA ,16148
+146,420 East Waterfront Drive,Homestead,PA ,15120
+147,475 Ben Franklin Rd S,Indiana,PA ,15701
+148,2000 Penny Lane Drive,Jeannette,PA ,15644
+149,1233 Broad Street,Johnstown,PA ,15906
+150,344 Goucher Street,Johnstown,PA ,15905
+151,1451 Scalp Avenue,Johnstown,PA ,15904
+152,1050 Mt. Laurel Plaza Route 30,Latrobe,PA ,15650
+153,41 Towne Center Drive,Leechburg,PA ,15656
+154,5 Quaker Village S.C.,Leetsdale,PA ,15056
+155,117 South Walnut Street,Ligonier,PA ,15658
+156,200 Station Street,Mcdonald,PA ,15057
+157,1800 McKees Rocks Road,Mckees Rocks,PA ,15136
+158,3812 O'Neil Boulevard,Mckeesport,PA ,15132
+159,4007 Washington Road,Mcmurray,PA ,15317
+160,18511 Smock Highway,Meadville,PA ,16335
+161,1300 Country Club Road,Monongahela,PA ,15063
+162,4010 Monroeville Boulevard,Monroeville,PA ,15146
+163,1700 New Butler Road,New Castle,PA ,16101
+164,3230 Wilmington Road,New Castle,PA ,16105
+165,200 Tarentum Bridge Road,New Kensington,PA ,15068
+166,8901 Route 30 North Huntingdon Square,North Huntingdon,PA ,15642
+167,1701 Lincoln Highway,North Versailles,PA ,15137
+168,7 Cottonwood Street,Northern Cambria,PA ,15714
+169,602 East 2nd Street,Oil City,PA ,16301
+170,254 Yost Boulevard-Braddock,Pittsburgh,PA ,15221
+171,600 Towne Square Way,Pittsburgh,PA ,15227
+172,4110 Brighton Road,Pittsburgh,PA ,15212
+173,132 Ben Avon Heights Road,Pittsburgh,PA ,15237
+174,5260 Grove Road,Pittsburgh,PA ,15236
+175,318-320 Cedar Avenue,Pittsburgh,PA ,15212
+176,1717 Cochran Road,Pittsburgh,PA ,15220
+177,51 Walsh Road,Pittsburgh,PA ,15205
+178,1705 South Braddock Avenue,Pittsburgh,PA ,15218
+179,9001 Frankstown Road,Pittsburgh,PA ,15235
+180,4250 Murray Avenue,Pittsburgh,PA ,15217
+181,8080 McIntyre Square Drive,Pittsburgh,PA ,15237
+182,1165 McKinney Lane,Pittsburgh,PA ,15220
+183,230 Rodi Road,Pittsburgh,PA ,15235
+184,6320 Shakespeare Street,Pittsburgh,PA ,15206
+185,2021 Wharton Avenue,Pittsburgh,PA ,15203
+186,1901 Murray Avenue,Pittsburgh,PA ,15217
+187,9805 McKnight Road,Pittsburgh,PA ,15237
+188,2611 Freeport Road,Pittsburgh,PA ,15238
+189,100 Settlers Ridge Center Drive,Pittsburgh,PA ,15205
+190,5550 Centre Avenue,Pittsburgh,PA ,15232
+191,910 Freeport Road,Pittsburgh,PA ,15238
+192,999 North Eighty Eight Road,Rices Landing,PA ,15357
+193,510 S Route 36,Roaring Spring,PA ,16673
+194,111 West Madison Street,Rochester,PA ,15074
+195,100 Buffalo Plaza,Sarver,PA ,16055
+196,206 Seven Fields Blvd,Seven Fields,PA ,16046
+197,223 Grove City Rd.,Slippery Rock,PA ,16057
+198,1606 North Center Avenue,Somerset,PA ,15501
+199,4192 Glades Pike,Somerset,PA ,15501
+200,110 S Martin Street,Titusville,PA ,16354
+201,581 Pittsburgh Road,Uniontown,PA ,15401
+202,200 Allegheny River Boulevard,Verona,PA ,15147
+203,331 Washington Road,Washington,PA ,15301
+204,100 Sugar Run Road,Waynesburg,PA ,15370
+205,9901 Mountainview Drive,West Mifflin,PA ,15122
+206,1356 Hoffman Boulevard,West Mifflin,PA ,15122
+207,105 Robertson Street,West Newton,PA ,15089
+208,1029 West View Park Drive,West View,PA ,15229
+209,155 Towne Centre Drive,Wexford,PA ,15090
+210,2001 Lincoln Way,White Oak,PA ,15131
+211,130 Greenbag Road,Morgantown,WV ,26505
+212,208 Giant Street,Morgantown,WV ,26501
+213,4927 E 146th Street,Carmel,IN ,46033
+214,11505 N Illinois Street,Carmel,IN ,46032
+215,6990 Pendleton Pike,Indianapolis,IN ,46226
+216,8249 Rockville Road,Indianapolis,IN ,46214
+217,3061 E Main Street,Plainfield,IN ,46168

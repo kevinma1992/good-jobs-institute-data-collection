@@ -1,0 +1,175 @@
+store_id,address,city,state,zip_code,phone_number
+1,368 S Broadway ,Denver,CO,80209,(303) 733-3033
+2,4116 N College Ave,Fayetteville,AR,72703,(479) 443-4600
+3,1315 South Caraway Rd,Jonesboro,AR,72401,(870) 934-1305
+4,9210 N. Rodney Parham Rd,Little Rock,AR,72227,(501) 312-8300
+5,5805 W. Ray Rd.,Chandler,AZ,85226,(480) 893-8000
+6,503 West Clay Avenue,Flagstaff,AZ,86001,(928) 779-4172
+7,2151 E Baseline Rd,Gilbert,AZ,85234,(480) 635-9000
+8,1625 E Williams Field Rd,Gilbert,AZ,85295,(480) 917-9000
+9,655 W. Indian School Rd,Phoenix,AZ,85013,(602) 277-3000
+10,1470 Gail Gardner Way,Prescott,AZ,86305,(928) 771-0400
+11,13802 North Scottsdale Road Unit 110,Scottsdale,AZ,85254,(480) 483-2200
+12,1915 West State Route 89A,Sedona,AZ,86336,(928) 282-1961
+13,3016 East Broadway Blvd,Tucson,AZ,85716,(520) 327-3100
+14,368 S Broadway ,Denver,CO,80209,(303) 733-3033
+15,7220 E. Broadway Blvd.,Tucson,AZ,85710,(520) 885-6000
+16,6320 N. Oracle Road,Tucson,AZ,85704,(520) 297-1898
+17,5600 E River Rd,Tucson,AZ,85750,(520) 299-0956
+18,7745 N. Wadsworth Blvd,Arvada,CO,80003,(303) 423-0990
+19,3440 South Tower Road,Aurora,CO,80013,(303) 680-2344
+20,2685 Pearl Street,Boulder,CO,80302,(303) 402-1400
+21,4510 Trail Boss Drive,Castle Rock,CO,80104,(303) 660-2600
+22,6774 S. University Blvd.,Centennial,CO,80122,(303) 694-3000
+23,11753 E Arapahoe ,Centennial,CO,80112,(303) 790-0488
+24,7298 North Academy Blvd,Colorado Springs,CO,80920,(719) 577-2500
+25,1604 South Nevada Ave,Colorado Springs,CO,80906,(719) 634-9200
+26,27101 Main St,Conifer,CO,80433,(303) 816-5000
+27,368 S Broadway ,Denver,CO,80209,(303) 733-3033
+28,1433 Washington Street,Denver,CO,80203,(303) 832-3000
+29,2053 S.Colorado Blvd.,Denver,CO,80222,(303) 756-8400
+30,368 S Broadway ,Denver,CO,80209,(303) 733-3033
+31,4500 E Alameda Ave,Denver,CO,80246,(303) 399-0164
+32,3757 North Brighton Blvd,Denver,CO,80216,(303) 458-5300
+33,3825 Tennyson Street,Denver,CO,80212,(303) 455-6000
+34,1123 Camino Del Rio,Durango ,CO,81301,(970) 247-4100
+35,1291 Bergen Pkwy.,Evergreen,CO,80439,(303) 679-9800
+36,4318 S. College Ave.,Fort Collins,CO,80525,(970) 266-9919
+37,970 N Ten Mile Dr.,Frisco,CO,80443,(970) 262-1100
+38,127 E. Meadows Drive,Glenwood Springs,CO,81601,(970) 945-7000
+39,2401 Ford Street,Golden,CO,80401,(303) 279-2500
+40,368 S Broadway ,Denver,CO,80209,(303) 733-3033
+41,2464 US Hwy 6 & 50,Grand Junction,CO,81505,(970) 263-7750
+42,2819 35th Ave,Greely,CO,80634,(970) 330-8600
+43,18471 Green Valley Ranch Blvd,Denver,CO,80249,720 842 7089
+44,"1265 Sgt. John Stiles Drive, Suite M",Littleton,CO,80129,(303) 471-9400
+45,100 W South Boulder Road,Lafayette,CO,80026,(303) 926-1600
+46,12612 W Alameda Parkway,Lakewood,CO,80228,(303) 986-5700
+47,3333 S Wadsworth Blvd,Lakewood,CO,80227,(303) 989-4866
+48,9030 W. Colfax Ave,Lakewood,CO,80215,(303) 232-6266
+49,6475 S Kipling Parkway,Littleton,CO,80123,(303) 948-9944
+50,1745 North Main St,Longmont,CO,80501,(303) 684-8200
+51,"3451 Rio Grande Avenue, Unit B1",Montrose,CO,81401,(970) 249-2724
+52,1216 W Baptist Road,Monument,CO,80132,(719) 487-0448
+53,368 S Broadway ,Denver,CO,80209,(303) 733-3033
+54,11465 Washington St.,Northglenn,CO,80233,(303) 280-1900
+55,755 San Juan Street,Pagosa Springs,CO,81147,(970) 459-9212
+56,11402 S.Parker Rd.,Parker,CO,80134,(303) 805-1285
+57,101 W. 29th Street,Pueblo,CO,81008,(719) 542-2411
+58,200 F Street,Salida,CO,81201,(719) 239-7161
+59,335 Lincoln Ave,Steamboat Springs,CO,80487,(970) 871-0100
+60,4900 Kipling Street,Wheat Ridge,CO,80033,(303) 420-2600
+61,916 Paradise Lodge Lane,Woodland Park,CO,80863,(719) 247-6334
+62,5410 University Avenue,Cedar Falls,IA,50613,(319) 553-5510
+63,931 Blairs Ferry Rd NE,Cedar Rapids,IA,52402,(319) 382-7993
+64,8650 Hickman Rd,Clive,IA,50325,(515) 278-8000
+65,3805 E. 53rd Street,Davenport,IA,52807,(563) 355-4396
+66,368 S Broadway ,Denver,CO,80209,(303) 733-3033
+67,3333 Asbury Road,Dubuque,IA,52002,(563) 552-7152
+68,1404 Gilbert Street,Iowa City,IA,52240,(319) 351-9345
+69,1195 N. Milwaukee St.,Boise,ID,83704,(208) 378-7323
+70,222 W Neider Ave,Coeur D Alene,ID,83815,(208) 665-4590
+71,710 N Main Street,Hailey,ID,83333,(208) 788-5094
+72,1270 E 17th Street,Idaho Falls,ID,83404,(208) 523-6100
+73,1301 W 23rd St,Lawrence,KS,66046,(785) 830-8500
+74,6819 Johnson Drive,Mission,KS,66202,(913) 432-5200
+75,14921 West 119th St,Olathe,KS,66062,(913) 764-0918
+76,9108 Metcalf Ave.,Overland Park,KS,66212,(913) 385-2000
+77,13335 Shawnee Mission Pkwy,Shawnee,KS,66216,(913) 631-0844
+78,5836 SW 21st Street,Topeka,KS,66604,(785) 228-9100
+79,368 S Broadway ,Denver,CO,80209,(303) 733-3033
+80,1715 N. Rock Rd,Wichita,KS,67206,(316) 636-4242
+81,10520 W. 13th Street N,Wichita,KS,67212,(316) 721-6100
+82,1925 Kaliste Saloom Road,Lafayette,LA,70508,337-366-6384
+83,1507 Greenview Drive SW,Rochester,MN,55902,(507) 252-8000
+84,400 N Stadium Blvd,Columbia,MO,65203,(573) 445-6353
+85,19019 E 48th St S,Independence,MO,64055,(816) 478-1990
+86,510 South Range Line Rd,Joplin,MO,64801,(417) 627-9436
+87,114 S. Stewart Rd.,Liberty,MO,64068,(816) 335-4190
+88,2414 North Belt Highway Suite 100,St. Joseph,MO,64506,(816) 387-8333
+89,304 S 24th Street W,Billings,MT,59102,(406) 652-1500
+90,3061 North Montana Ave.,Helena,MT,59601,(406) 442-1000
+91,2395 US Highway 93 North,Kalispell,MT,59901,(406) 755-5300
+92,368 S Broadway ,Denver,CO,80209,(303) 733-3033
+93,2530 South 3rd Street West,Missoula,MT,59804,(406) 728-2100
+94,840 S Washington St,Bismark,ND,58504,(701) 712-5444
+95,4517 13th Ave S,Fargo,ND,58103,(701) 281-2000
+96,1901 32nd Ave. South,Grand Forks,ND,58201,(701) 775-8333
+97,212 N 48 Street,Lincoln,NE,68504,(402) 489-0400
+98,7831 Dodge St,Omaha,NE,68114,(402) 393-0774
+99,17602 Wright St,Omaha,NE,68130,(402) 334-1100
+100,4420 Wyoming NE,Albuquerque,NM,87111,(505) 292-7300
+101,700 E. 20th St.,Farmington,NM,87401,(505) 324-6400
+102,3970 E Lohman Ave,Las Cruces,NM,88011,(575) 522-1711
+103,1501 Trinity Dr,Los Alamos,NM,87544,(505) 412-4460
+104,921 Pat D'Arco Hwy,Rio Rancho,NM,87124,(505) 897-0400
+105,368 S Broadway ,Denver,CO,80209,(303) 733-3033
+106,1090 S. St. Francis Dr.,Santa Fe,NM,87505,(505) 474-0111
+107,1660 West Sunset Road,Henderson,NV,89014,(702) 547-1837
+108,6305 Simmons St.,North Las Vegas,NV,89031,(702) 395-0642
+109,4819 Kietzke Lane,Reno,NV,89502,(775) 448-9828
+110,3325 South Boulevard St Suite 169,Edmond,OK,73013-4808,(405) 341-4700
+111,16425 North Western Ave.,Edmond,OK,73013-1000,(405) 330-1405
+112,1918 West Main St,Norman,OK,73069,(405) 321-3375
+113,7013 North May Ave.,Oklahoma City,OK,73116,(405) 840-0300
+114,2120 SW 89th Street,Oklahoma City,OK,73159,(405) 691-7800
+115,3126 S Harvard Ave,Tulsa,OK,74135,(918) 749-0271
+116,3188 North Highway 97,Bend,OR,97703,(541) 617-0200
+117,562 N Broadway,Coos Bay,OR,97420,(541) 266-9473
+118,368 S Broadway ,Denver,CO,80209,(303) 733-3033
+119,1235 NW 10th Street,Corvallis,OR,97330,(541) 758-0200
+120,201 Coburg Road,Eugene,OR,97401,(541) 345-3300
+121,2800 S. 6th Street,Klamath Falls,OR,97603,(541) 887-4470
+122,1990 North Pacific Highway,Medford,OR,97501,(541) 245-0100
+123,3975 SE Powell Blvd,Portland,OR,97202,(503) 788-1677
+124,5055 NE Martin Luther King Jr. Blvd,Portland,OR,97211,(503) 528-9884
+125,12155 SW Broadway St,Beaverton,OR,97005,(503) 520-9100
+126,11424 SE 82nd Avenue,Happy Valley,OR,97086,(503) 659-0100
+127,407 Northwest Burnside Road,Gresham,OR,97030,(503) 465-0130
+128,4250 Commercial St SE,Salem,OR,97302,503-588-1600
+129,13115 SW Pacific Hwy,Tigard,OR,97223,(971) 249-8885
+130,137 S. Hwy 101,Warrenton,OR,97146,(503) 861-5646
+131,368 S Broadway ,Denver,CO,80209,(303) 733-3033
+132,3350 South Clack St,Abilene,TX,79606,(325) 690-6699
+133,7400 SW 34th Ave.,Amarillo,TX,79121,(806) 463-5500
+134,"10515 N. Mopac Expressway, Bldg. L",Austin,TX,78759,(512) 231 9200
+135,4615 North Lamar Blvd,Austin,TX,78751,(512) 323-5100
+136,1335 E Whitestone Blvd Bldg G-17,Cedar Park,TX,78613,(512) 259-3322
+137,1301 W. University Ave.,Georgetown,TX,78628,(737) 808-7052
+138,120 S Denton Tap Rd Suite 300,Coppell,TX,75019,(972) 393-7900
+139,3750 South Staples St,Corpus Christ,TX,78411,(361) 857- 5757
+140,9440 Garland Rd- Casa Linda Plaza,Dallas,TX,75218,(214) 321-4777
+141,11661 Preston Rd,Dallas,TX,75230,(214) 987-0000
+142,677 West Campbell Rd,Richardson,TX,75080,(972) 735-9200
+143,110 West University Dr,Denton,TX,76201,(940) 387-1100
+144,368 S Broadway ,Denver,CO,80209,(303) 733-3033
+145,2501 W. 7th St. Suite 115,Fort Worth,TX,76107,(817) 334-0801
+146,5230 North Tarrant Parkway,Fort Worth,TX,76137,(817) 788-4576
+147,610 E. Main St,Fredericksburg,TX,78624,830-733-9139
+148,759 Grapevine Hwy,Hurst,TX,76054,(682) 738-3014
+149,1501 Keller Parkway,Keller,TX,76248,(817) 379-1900
+150,406 W Loop 281,Longview,TX,75605,(903) 331-0733
+151,7208 Slide Road,Lubbock,TX,79424,(806) 783-8990
+152,3116 N. Loop 250 W. Suite 500,Midland,TX,79707,(432) 694-7400
+153,6514 N. New Braunfels Ave.,San Antonio,TX,78209,(210) 829-5236
+154,13310 NW Military Highway,San Antonio,TX,78231,(210) 764-1111
+155,3621 S. General Bruce Dr,Temple,TX,76504,(254) 774-7560
+156,4820 S. Broadway Ave.,Tyler,TX,75703,(903) 561-1800
+157,368 S Broadway ,Denver,CO,80209,(303) 733-3033
+158,3910 Lawrence Rd,Wichita Falls,TX,76308,(940) 689-0305
+159,55 W 500 South,Bountiful,UT,84010,(801) 295-2200
+160,893 S. Main Street,Cedar City,UT,84720,(435) 572-2226
+161,989 S. Main Street,Heber City,UT,84032,(435) 657-1930
+162,"1075 North Main St, Suite 110",Logan,UT,84341,(435) 752-3200
+163,270 12th Street,Ogden,UT,84404,(385) 333-7768
+164,712 W Telegraph St.,Washington,UT,84780,(435) 986-1100
+165,645 East 400 South Suite A,Salt Lake City,UT,84102,(801) 364-2000
+166,1033 East 2100 South,Salt Lake City,UT,84106,(801) 467-2920
+167,10622 S. Redwood Road,South Jordan,UT,84095,(801) 253-6550
+168,4603 N Division St,Spokane,WA,99207,(509) 489-9900
+169,2512 E. 29th Avenue,Spokane,WA,99223,509-503-1700
+170,368 S Broadway ,Denver,CO,80209,(303) 733-3033
+171,7604 NE 5th Avenue Ste 100,Vancouver,WA,98665,(360) 694-1300
+172,3311 SE 192nd Ave,Vancouver,WA,98683,(360) 450-2770
+173,3650 East 2nd St,Casper,WY,82609,(307) 265-0909
+174,"5116 Frontier Mall Drive, St 400",Cheyenne,WY,82009,(307) 635-3800
